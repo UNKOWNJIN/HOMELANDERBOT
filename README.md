@@ -12,8 +12,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<img src="![photo_2025-02-09_00-03-49-ezgif com-image-to-datauri-converter](https://github.com/user-attachments/assets/52d05187-87f8-4fb2-ab6a-52d43c76ee43)
-" />
+<img src="https://carder.top/imagens/1739057569321-92269572.jpg" />
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
