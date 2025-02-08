@@ -12,7 +12,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<img src="https://telegra.ph/file/69a6ade6cf290c7480ce4.jpg" />
+<img src="https://www.imghippo.com/i/xDQZ8570IFk.jpg" />
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -33,7 +33,7 @@ WHATSAPP BOT MULTIFONCTIONS
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/UNKNOWN-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/221768649590"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Alp24ni"><img title="Author" src="https://img.shields.io/badge/ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/242069820573"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
   
 ### 1. FORK THIS REPO
