@@ -41,7 +41,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <a href='https://github.com/UNKOWNJIN/UNKNOWN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
-### 2. GET SESSION_ID BY TEAMS UNKNOWN
+### 2. GET SESSION_ID BY THE BOYS TEAM
 
 ### QR CODE.
 <a href='https://web-qr-64jj.onrender.com/' target="_blank"><img alt='QR-CODE' src='https://img.shields.io/badge/QR-CODE-Purple?style=for-the-badge&logo=git&logoColor=purple'/></a>
