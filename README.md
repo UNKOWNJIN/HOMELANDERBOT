@@ -8,7 +8,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 
 <h1 align="center"> ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Purple&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAMS+SASAKI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=Purple&center=true&width=910&height=100&lines=THANKS FOR CHOOSING+ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+JIN" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
