@@ -1,6 +1,7 @@
+
 # ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ
-WHATSAPP BOT MULTIFONCTIONS 
-<h1 align="center"> ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ-TECH </h1> 
+WHATSAPP BUG-BOT MULTIFONCTIONS 
+<h1 align="center"> ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ-BUG </h1> 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -27,7 +28,7 @@ WHATSAPP BOT MULTIFONCTIONS
 <a href="https://github.com/Alp24ni/SASAKI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD?label=Watching&style=social"></a>
 </p>
 
-<h3 align="center">ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ WHATSAPP BOT</h3>
+<h3 align="center">ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ BUG-BOT</h3>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TEAMS ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ-_TECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
