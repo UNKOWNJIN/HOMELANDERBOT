@@ -8,7 +8,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 
 <h1 align="center"> ℍ𝕆𝕄𝔼𝕃𝔸ℕ𝔻𝔼ℝ </h1>
 
-<a href="https://git.io/typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=435&lines=%E2%84%8D%F0%9D%95%86%F0%9D%95%84%F0%9D%94%BC%F0%9D%95%83%F0%9D%94%B8%E2%84%95%F0%9D%94%BB%F0%9D%94%BC%E2%84%9D+BUG+BOT....;I'm+Stronger.;I'm+Smarter.;+I'm+Better.;+I+Am+Better!)](https://git.io/typing-svg)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F70000&width=435&lines=%E2%84%8D%F0%9D%95%86%F0%9D%95%84%F0%9D%94%BC%F0%9D%95%83%F0%9D%94%B8%E2%84%95%F0%9D%94%BB%F0%9D%94%BC%E2%84%9D+BUG+BOT....;I'm+Stronger.;I'm+Smarter.;+I'm+Better.;+I+Am+Better!)](https://git.io/typing-svg)" alt="Typing SVG" /></a>
   </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -51,3 +51,4 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 ### PAIRING CODE.
 <a href='https://sasaki-md-v2-paire-87pj.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
+
