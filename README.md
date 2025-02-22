@@ -30,7 +30,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 
 <h3 align="center">𝒯𝐻𝐸 𝒜𝑅𝒞𝐻𝐼𝒯𝐸𝒞𝒯 BUG-BOT</h3>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TEAMS-TECH-blue.svg?style=for-the-badge&logo=github
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-TEAMS-TECH-red?style=for-the-badge&logo=github
 "></a>
 </a>
 </p>
