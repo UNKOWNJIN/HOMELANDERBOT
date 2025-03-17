@@ -51,7 +51,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 <a href='https://sasaki-md-v2-paire-87pj.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
-⚠️To use some commands, you will need to contact the developers.⚠️
+⚠️To use some commands, you will need to contact the administrators.⚠️
 
 
 ### 3. DEPLOY BY...
