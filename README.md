@@ -10,7 +10,6 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=600&width=435&lines=I+AM;%F0%9D%92%AF%F0%9D%90%BB%F0%9D%90%B8+%F0%9D%92%9C%F0%9D%91%85%F0%9D%92%9E%F0%9D%90%BB%F0%9D%90%BC%F0%9D%92%AF%F0%9D%90%B8%F0%9D%92%9E%F0%9D%92%AF;NOW;%F0%9D%92%9C%F0%9D%91%85%F0%9D%90%BC%F0%9D%92%AE%F0%9D%90%B8" alt="Typing SVG" /></a>
   </p>
-  ⚠️To use some commands, you will need to contact the developers.⚠️
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
