@@ -1,12 +1,12 @@
 
-# 𝒯𝐻𝐸 𝒜𝑅𝒞𝐻𝐼𝒯𝐸𝒞𝒯
+# NEMESISI-ONE
 WHATSAPP BUG-BOT MULTIFONCTIONS 
-<h1 align="center"> 𝒯𝐻𝐸 𝒜𝑅𝒞𝐻𝐼𝒯𝐸𝒞𝒯-BUG </h1> 
+<h1 align="center"> NEMESIS-BUG </h1> 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h1 align="center"> 𝒯𝐻𝐸 𝒜𝑅𝒞𝐻𝐼𝒯𝐸𝒞𝒯 </h1>
+<h1 align="center"> NEMESIS-ONE </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=600&width=435&lines=I+AM;%F0%9D%92%AF%F0%9D%90%BB%F0%9D%90%B8+%F0%9D%92%9C%F0%9D%91%85%F0%9D%92%9E%F0%9D%90%BB%F0%9D%90%BC%F0%9D%92%AF%F0%9D%90%B8%F0%9D%92%9E%F0%9D%92%AF;NOW;%F0%9D%92%9C%F0%9D%91%85%F0%9D%90%BC%F0%9D%92%AE%F0%9D%90%B8" alt="Typing SVG" /></a>
   </p>
@@ -28,7 +28,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 <a href="https://github.com/Alp24ni/SASAKI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alp24ni/SASAKI-MD?label=Watching&style=social"></a>
 </p>
 
-<h3 align="center">𝒯𝐻𝐸 𝒜𝑅𝒞𝐻𝐼𝒯𝐸𝒞𝒯 BUG-BOT</h3>
+<h3 align="center">NEMESIS BUG-BOT</h3>
 <p align="center">
 </a>
 </p>
@@ -41,7 +41,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 <a href='https://github.com/UNKOWNJIN/UNKNOWN-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-blue?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
-### 2. GET SESSION_ID BY THE BOYS TEAM
+### 2. GET SESSION_ID BY UNKNOWNJIN-TECH
 
 ### QR CODE.
 <a href='https://web-qr-64jj.onrender.com/' target="_blank"><img alt='QR-CODE' src='https://img.shields.io/badge/QR-CODE-Purple?style=for-the-badge&logo=git&logoColor=purple'/></a>
