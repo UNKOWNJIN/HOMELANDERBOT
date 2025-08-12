@@ -51,11 +51,16 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 <a href='https://sasaki-md-v2-paire-87pj.onrender.com/' target="_blank"><img alt='PAIR CODE' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
-⚠️To use some commands, you will need to contact the administrators.⚠️
+⚠️To use some commands, you will need to contact the administrators.⚠️ ⚠️Pour utiliser certaines commandes, vous devrez contacter les administrateurs.⚠️
 
 
-### 3. DEPLOY BY...
+### 3. DEPLOY NEMESIS-BUG BY...
 
 ### RENDER
+<img width="40" height="40" alt="Render" src="https://github.com/user-attachments/assets/be6ffda6-d97e-42c1-bf5c-ff2969d0afa5" />
 
 ### REPLIT
+<img width="40" height="40" alt="Replit" src="https://github.com/user-attachments/assets/5b872e41-8016-4cf5-9499-5e632b12c38a" />
+
+### TERMUX 
+<img width="40" height="40" alt="Termux svg" src="https://github.com/user-attachments/assets/2f4f9120-6b08-41be-9ead-68cc68369608" />
