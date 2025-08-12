@@ -13,7 +13,7 @@ WHATSAPP BUG-BOT MULTIFONCTIONS
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<img src="https://carder.top/imagens/1740246246476-66449408.jpg" />
+<img src="https://github.com/user-attachments/assets/6f75a0e8-b9fd-48fe-b06f-1d971a52d822"/>
 <p/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
