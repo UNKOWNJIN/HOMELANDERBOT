@@ -4,7 +4,7 @@ Bot WhatsApp Multi-Device basé sur **Baileys**
 
 ---
 
-![Banner](https://i.imgur.com/xxxx.jpg)
+![Banner](https://raw.githubusercontent.com/USER/REPO/main/assets/banner.jpg)
 
 
 ## ⚡ Fonctionnalités
