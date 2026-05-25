@@ -4,6 +4,8 @@ Bot WhatsApp Multi-Device basé sur **Baileys**
 
 ---
 
+![Image](https://files.catbox.moe/g244x2.jpeg)
+
 ## ⚡ Fonctionnalités
 - ✔ Menu dynamique (!menu)
 - ✔ Commandes simples (!ping, !info)
