@@ -1,149 +1,76 @@
-const {
-    default: makeWASocket,
-    useMultiFileAuthState,
-    DisconnectReason,
-    downloadContentFromMessage
-} = require('@whiskeysockets/baileys')
+if (command === "vv") {
+  const quoted = msg.message?.extendedTextMessage?.contextInfo?.quotedMessage;
 
-const qrcode = require('qrcode-terminal')
-const sharp = require('sharp')
+  if (!quoted) {
+    return sock.sendMessage(from, {
+      text: "❌ Réponds à une photo ou vidéo view once."
+    });
+  }
 
-async function startBot() {
+  // ===== VIEW ONCE V2 (le vrai format moderne WhatsApp) =====
+  const viewOnceMsg =
+    quoted.viewOnceMessageV2?.message ||
+    quoted.viewOnceMessage?.message ||
+    quoted;
 
-    const { state, saveCreds } = await useMultiFileAuthState('session')
+  // DEBUG SAFE (optionnel)
+  // console.log(JSON.stringify(viewOnceMsg, null, 2));
 
-    const sock = makeWASocket({
-        auth: state
-    })
+  // =========================
+  // 📸 PHOTO VIEW ONCE
+  // =========================
+  const imageMsg =
+    viewOnceMsg.imageMessage ||
+    viewOnceMsg?.message?.imageMessage;
 
-    sock.ev.on('creds.update', saveCreds)
+  if (imageMsg) {
+    try {
+      const stream = await downloadContentFromMessage(imageMsg, "image");
+      let buffer = Buffer.from([]);
 
-    sock.ev.on('connection.update', (update) => {
-        const { connection, qr, lastDisconnect } = update
+      for await (const chunk of stream) {
+        buffer = Buffer.concat([buffer, chunk]);
+      }
 
-        if (qr) {
-            console.log("📌 Scan QR :")
-            qrcode.generate(qr, { small: true })
-        }
+      return sock.sendMessage(from, {
+        image: buffer,
+        caption: "👀 Photo view once récupérée"
+      });
+    } catch (e) {
+      return sock.sendMessage(from, {
+        text: "❌ Erreur récupération image view once."
+      });
+    }
+  }
 
-        if (connection === 'open') {
-            console.log("🤖 Bot connecté ✔")
-        }
+  // =========================
+  // 🎥 VIDÉO VIEW ONCE
+  // =========================
+  const videoMsg =
+    viewOnceMsg.videoMessage ||
+    viewOnceMsg?.message?.videoMessage;
 
-        if (connection === 'close') {
-            const code = lastDisconnect?.error?.output?.statusCode
+  if (videoMsg) {
+    try {
+      const stream = await downloadContentFromMessage(videoMsg, "video");
+      let buffer = Buffer.from([]);
 
-            console.log("❌ Déconnecté :", code)
+      for await (const chunk of stream) {
+        buffer = Buffer.concat([buffer, chunk]);
+      }
 
-            if (code !== DisconnectReason.loggedOut) {
-                startBot()
-            }
-        }
-    })
+      return sock.sendMessage(from, {
+        video: buffer,
+        caption: "👀 Vidéo view once récupérée"
+      });
+    } catch (e) {
+      return sock.sendMessage(from, {
+        text: "❌ Erreur récupération vidéo view once."
+      });
+    }
+  }
 
-    sock.ev.on('messages.upsert', async ({ messages }) => {
-
-        const msg = messages[0]
-        if (!msg.message) return
-
-        const from = msg.key.remoteJid
-
-        const text =
-            msg.message.conversation ||
-            msg.message.extendedTextMessage?.text ||
-            ""
-
-        const prefix = "!"
-
-        // 🏓 ping
-        if (text === prefix + "ping") {
-            await sock.sendMessage(from, { text: "Pong 🏓" })
-        }
-
-        // ℹ️ info
-        if (text === prefix + "info") {
-            await sock.sendMessage(from, {
-                text: "🤖 Zokou-MD Bot\n⚡ Baileys\n👨‍💻 Version custom"
-            })
-        }
-
-        // 📋 MENU ZOKOU-MD
-        if (text === prefix + "menu") {
-
-            let cmsg = `
-╔══════════════════╗
-║ 『ENRIQUE-𝐌𝐃』
-╠══════════════════╣
-║ Prefix : [ ! ]
-║ Mode : public
-║ Status : 🟢 Actif
-╚══════════════════╝
-
-╔═════◇
-║ ⚡ COMMANDES
-╠═════◇
-║ !ping → test bot
-║ !info → infos bot
-║ !say texte → répète
-║ !sticker → image en sticker
-╚═════◇
-
-╔═════◇
-║ 🚧 COMMANDES À VENIR
-╠═════◇
-║ !tiktok → téléchargement vidéo
-║ !youtube → download vidéo/audio
-║ !play → musique
-║ !lyrics → paroles
-║ !antilink → anti liens
-║ !admin → outils groupe
-╚═════◇
-
-╔═════◇
-║ 👨‍💻 BY DON ENRIQUE++
-╚═════◇
-`
-
-            await sock.sendMessage(from, { text: cmsg })
-        }
-
-        // 💬 say
-        if (text.startsWith(prefix + "say ")) {
-            const args = text.slice(5)
-            await sock.sendMessage(from, { text: args })
-        }
-
-        // 🎭 sticker (image → sticker)
-        if (msg.message.imageMessage && text === prefix + "sticker") {
-
-            try {
-                const stream = await downloadContentFromMessage(
-                    msg.message.imageMessage,
-                    'image'
-                )
-
-                let buffer = Buffer.from([])
-
-                for await (const chunk of stream) {
-                    buffer = Buffer.concat([buffer, chunk])
-                }
-
-                const sticker = await sharp(buffer)
-                    .resize(512, 512)
-                    .png()
-                    .toBuffer()
-
-                await sock.sendMessage(from, {
-                    sticker
-                })
-
-            } catch (err) {
-                console.log("Sticker error:", err)
-            }
-        }
-
-    })
-
+  return sock.sendMessage(from, {
+    text: "❌ Aucun média view once détecté (photo/vidéo)."
+  });
 }
-
-startBot()
