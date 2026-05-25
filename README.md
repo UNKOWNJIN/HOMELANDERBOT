@@ -5,7 +5,7 @@ Bot WhatsApp Multi-Device basé sur **Baileys**
 ---
 
 <p align="center">
-  <img src="https://image-link.edgeone.app/1779691403194-uo8gf4.jpg" />
+  <img src="https://i.ibb.co/WN768xDv/image.jpg" />
   <p/>
 
 
