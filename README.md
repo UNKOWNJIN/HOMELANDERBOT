@@ -4,7 +4,7 @@ Bot WhatsApp Multi-Device basé sur **Baileys**
 
 ---
 
-https://pdftolink.io/file/r2_dXNlcnMvZ3Vlc3QvOWU1OWYyODctYTRlMi00ODcxLTgwZTMtZjA2YjVhNjFkM2Q0LmpwZw
+![Banner](https://i.imgur.com/xxxx.jpg)
 
 
 ## ⚡ Fonctionnalités
